@@ -1,3 +1,3 @@
 # Stock-Price-Prediction
 
-# website link : https://stkpred.streamlit.app/
+# website_link : https://stkpred.streamlit.app/
