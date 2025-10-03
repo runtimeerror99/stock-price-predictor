@@ -21,7 +21,7 @@ with open('style.css')as f:
 # code = """<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7367141985992219"
 #      crossorigin="anonymous"></script>"""
 
-# a=os.path.dirname(st.__file__)+'/static/index.html'
+# a=os.path.dirname(st.__file__)+'/static/index.html' 
 # with open(a, 'r') as s:
 #     data = s.read()
 #     if len(re.findall('ca-', data))==0:
