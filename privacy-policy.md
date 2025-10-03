@@ -25,7 +25,7 @@ We may use your Personal Information to:
 - Personalize your experience on our Website
 - Respond to your inquiries, requests, or comments
 - Send you newsletters, marketing communications, and other updates related to our services
-- Improve our Website and analyze usage trends
+- Improve our Website and analyze usage trends 
 
 2.2. Usage Data:
 We may use Usage Data for statistical purposes, to analyze and improve the performance and functionality of our Website, and for other internal purposes. Usage Data is generally collected anonymously and does not directly identify individuals.
