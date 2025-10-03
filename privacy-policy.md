@@ -15,7 +15,7 @@ We may collect certain personally identifiable information ("Personal Informatio
 - Any other information voluntarily provided by you through the Website
 
 1.2. Usage Data:
-We may also collect information on how the Website is accessed and used ("Usage Data"). This Usage Data may include your computer's Internet Protocol (IP) address, browser type, browser version, the pages of our Website that you visit, the time and date of your visit, the time spent on those pages, unique device identifiers, and other diagnostic data.
+We may also collect information on how the Website is accessed and used ("Usage Data"). This Usage Data may include your computer's Internet Protocol (IP) address, browser type, browser version, the pages of our Website that you visit, the time and date of your visit, the time spent on those pages, unique device identifiers, and other diagnostics data.
 
 2. Use of Information
 
