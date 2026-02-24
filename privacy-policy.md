@@ -1,6 +1,6 @@
 Privacy Policy
 
-Effective Date: July 17, 2023
+Effective Date: August 17, 2025
 
 Thank you for visiting our Stock Price Prediction website ("Website"). This Privacy Policy aims to inform you about the collection, use, and disclosure of personal information when you use our Website and the choices you have associated with that information.
 
