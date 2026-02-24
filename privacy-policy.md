@@ -48,7 +48,7 @@ Our Website may contain links to other websites that are not operated by us. If 
 
 6. Children's Privacy
 
-Our Website is not intended for use by individuals under the age of 18 ("Children"). We do not knowingly collect Personal Information from Children. If you become aware that a Child has provided us with Personal Information, please contact us, and we will take steps to remove that information.
+Our Website is not intended for use by individuals under the age of 18 ("Legally underage"). We do not knowingly collect Personal Information from Children. If you become aware that a Child has provided us with Personal Information, please contact us, and we will take steps to remove that information.
 
 7. Changes to This Privacy Policy
 
