@@ -56,7 +56,7 @@ We may update our Privacy Policy from time to time. We will notify you of any ch
 
 8. Contact Us
 
-If you have any questions or suggestions about our Privacy Policy or if you want to exercise your rights related to your Personal Information, please contact us at subhadipjana001@gmail.com.
+If you have any questions or suggestions about our Privacy Policy or if you want to exercise your rights related to your Personal Information, please contact us at ashutoshshaw0220@gmail.com.
 
 By using our Stock Price Prediction website, you consent to the collection and use of information as described in this Privacy Policy.
 
